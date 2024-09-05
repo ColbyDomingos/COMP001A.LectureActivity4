@@ -1,0 +1,21 @@
+header {
+    text-align: center;
+    list-style-position: inside;
+    list-style-type:decimal;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aliceblue;
+}
+
+nav {
+    text-indent: -1cm;
+    background-color: aquamarine;
+    font-style: italic;
+}
+
+body {
+    background-color: beige;
+}
+
+footer {
+    text-align: center;
+}
